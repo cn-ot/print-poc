@@ -3,17 +3,6 @@ package main
 import (
     "bytes"
     "fmt"
-    "io/ioutil"
-    "mime/multipart"
-    "net/http"
-    "os"
-)
-
-package main
-
-import (
-    "bytes"
-    "fmt"
     "io"
     "io/ioutil"
     "mime/multipart"
